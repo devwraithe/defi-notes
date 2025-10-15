@@ -1,4 +1,4 @@
 # DeFi Notes
 
 ## Topics
-- [Flash Loans](topics/flash_loans.md)
+- [Flash Loans](concepts/flash_loans.md)
